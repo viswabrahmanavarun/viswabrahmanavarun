@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Developer** from Bengaluru, Karnataka, India, passionate about building scalable web applications and turning data into actionable insights.
+I'm a **Full-Stack Software Developer** from Bengaluru, Karnataka, India, passionate about building scalable web applications and turning data into actionable insights.
 
 - 🔭 Currently building: full-stack apps with **Next.js**, **TypeScript**, and **Node.js**
 - 📊 Also love: **Power BI dashboards** and data-driven storytelling
